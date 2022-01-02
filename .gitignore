@@ -1,0 +1,6 @@
+/build/
+/subprojects/glib*
+/subprojects/libffi*
+/subprojects/packagecache/
+/subprojects/pcre*
+/subprojects/zlib*
